@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"github.com/devasherr/gokey/token"
+	"github.com/devasherr/lambda/token"
 )
 
 type Lexer struct {
